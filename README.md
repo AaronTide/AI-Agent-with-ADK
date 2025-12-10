@@ -34,8 +34,13 @@ Gemini API Key from Google AI Studio (https://aistudio.google.com/apps)
 2 ) Create and activate .venv
 
     python -m venv .venv
-      
+for Windows
+
     .venv\Scripts\activate
+
+On macOS/Linux:
+
+    source venv/bin/activate
 
 
 3 ) Rename ALL .env.example files as .env and put in your Gemini API key 
