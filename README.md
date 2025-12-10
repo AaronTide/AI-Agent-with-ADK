@@ -1,3 +1,7 @@
+**FINANCIAL ADVISOR AGENT FOR STARTUPS**
+Built using Google ADK 
+
+
 The Financial Advisor Agent acts as a specialized financial advisor for a startup founder. 
 
 It orchestrates a series of expert subagents namely- data_analyst_agent, fundraising_agent and grant_funding_agent.
