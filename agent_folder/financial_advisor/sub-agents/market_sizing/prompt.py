@@ -19,7 +19,7 @@ Compute market size using the TAM/SAM/SOM framework:
 
 Additionally, define:
 • Market entry strategy
-•
+
 • Data sources (public benchmarks or industry logic)
 
 Expected Output:
