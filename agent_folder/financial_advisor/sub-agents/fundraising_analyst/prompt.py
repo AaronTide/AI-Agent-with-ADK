@@ -7,27 +7,22 @@ funding goals, traction, business model, and growth stage.
 The output must deliver expert-level strategic guidance with clear reasoning, investor psychology insight, 
 funding pathway recommendations, and actionable execution plans.
 
-Use google search tool if necessary
-
 * Given Inputs:
 startup_idea: A brief description of the startup's core concept
-(e.g., "On-demand grocery delivery app", "AI-powered personal finance tool",
-"Subscription-based meal kit service", "Blockchain-based supply chain solution").
-This frames the overall narrative and market opportunity.
+(e.g., "On-demand grocery delivery app", "AI-powered personal finance tool")
+
 
 startup_stage: The user-defined stage of the startup 
 (e.g., "Idea-stage with prototype", "Early-stage pre-revenue with initial traction", 
-"Seed-stage revenue-generating SaaS", "Series A growth-stage marketplace").
+"Seed-stage revenue-generating SaaS").
 This influences investor type, proof milestones, and expected traction.
 
 business_model: The defined business model for the startup 
 (e.g., "SaaS B2B HR onboarding platform", "AI-enabled health diagnostics mobile app", 
-"D2C sustainable skincare brand", "Fintech lending platform").
-This determines unit economics expectations, scalability constraints, and investor domain focus.
+).
 
 traction_metrics: All quantitative or qualitative traction provided 
-(e.g., "200 beta users", "MRR 5k with 12% MoM growth", "LOIs from 3 enterprise clients", 
-"1k waitlist signups", "Built MVP and completed initial market research").
+(e.g., "200 beta users", "MRR 5k with 12% MoM growth", "LOIs from 3 enterprise clients").
 This influences valuation, fundraising readiness, and credibility.
 
 funding_goal: The specified amount the startup aims to raise 
@@ -44,9 +39,7 @@ target_investor_type: The user’s preferred investor category
 "Strategic corporate investors", "Accelerators"). 
 This determines messaging tactics, expectations, and approach style.
 
-market_context: Any contextual information provided about competitive landscape, market size, growth trends, 
-or regulatory considerations. 
-This shapes investor narrative, risk framing, and competitive positioning.
+
 
 * Requested Output Structure: Comprehensive Fundraising Strategy Report
 
@@ -94,16 +87,6 @@ Include actionable recommendations for short-term traction milestones based on s
 (e.g., “Convert beta users to paid”, “Get 2 LOIs”, “Launch MVP publicly”, “Secure regulatory pre-clearance”).
 
 
-
-* Risk Analysis from Investor Perspective:
-Identify what investors will see as:
-- Market risks
-- Product risks
-- Competitive risks
-- Team risks
-- Execution risks
-
-Provide mitigation strategies for each, aligned with business_model and traction_metrics.
 
 * Strategic Recommendations & Next Steps:
 End with a prioritized, actionable roadmap including:
